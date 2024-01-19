@@ -10,6 +10,6 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BTheZylatron%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZylatron&layout=compact&hide=TSQL&theme=midnight_purple"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=TheZylatron&count_private=true&show_icons=true&&theme=midnight_purple&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=TheZylatron&theme=midnight_purple"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZylatron&layout=compact&hide=TSQL&theme=transparent"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=TheZylatron&count_private=true&show_icons=true&&theme=transparent&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=TheZylatron&theme=transparent"></p>
