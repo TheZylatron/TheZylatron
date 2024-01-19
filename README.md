@@ -14,7 +14,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=TheZylatron&count_private=true&show_icons=true&&theme=transparent&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=TheZylatron&theme=transparent"></p>
 
-<p align="center">### 🛠 &nbsp;Languages</p>
+<p align="center">Languages</p>
 <div align="center"> 
   
 <a href="">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
