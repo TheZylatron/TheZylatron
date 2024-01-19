@@ -14,9 +14,9 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bzacharygazaille%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharygazaille&layout=compact&hide=TSQL&theme=transparent"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharygazaille&layout=compact&hide=TSQL&theme=prussian"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=zacharygazaille&count_private=true&show_icons=true&&theme=prussian&include_all_commits=true" width="400"></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=zacharygazaille&theme=transparent"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=zacharygazaille&theme=prussian"></p>
 
 <p align="center"><b>Languages</b></p>
 <div align="center"> 
