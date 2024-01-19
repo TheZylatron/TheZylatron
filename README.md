@@ -31,5 +31,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zachary-gazaille-182068262/"><img src="https://img.shields.io/badge/-Zachary%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vinny.purgato@gmail.com"><img src="https://img.shields.io/badge/-vinny.purgato@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:zacharygazaille@gmail.com"><img src="https://img.shields.io/badge/-zacharygazaille@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
