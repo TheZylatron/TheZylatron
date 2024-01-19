@@ -25,6 +25,7 @@
 
 </div>
 
+<p align="center"><b>Connect with me</b></p>
 ### :link: &nbsp;Connect with me
 
 <p align="center">
