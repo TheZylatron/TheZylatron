@@ -25,9 +25,11 @@
 
 </div>
 
-<p align="center"><b>Connect with me</b></p>
+<p align="center"><b>Connect with me</b>
 
 ### :link: &nbsp;Connect with me
+
+</p>
 
 <p align="center">
 <a href="https://vinny-purgato.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
