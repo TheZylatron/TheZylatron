@@ -1,6 +1,8 @@
 # Zachary Gazaille
 
-
+<p align="center">
+  <img src="Zachary Gazaille Banner.png" >
+</p>
 
 <h1 align="center">Hello <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
