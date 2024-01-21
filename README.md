@@ -1,7 +1,7 @@
 # Zachary Gazaille
 
 <p align="center">
-  <img src="Zachary Gazaille Banner.png" >
+  <img src="Zachary Gazaille Banner.jpg" >
 </p>
 
 <h1 align="center">Hello <picture>
