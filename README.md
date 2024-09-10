@@ -18,6 +18,7 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=zacharygazaille&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=zacharygazaille&theme=chartreuse-dark"></p>
 
+<!--
 <p align="center"><b>Languages</b></p>
 <div align="center"> 
   
@@ -28,6 +29,7 @@
 <a href="">![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</a>
 
 </div>
+-->
 
 <p align="center"><b>Connect with me</b></p>
 
